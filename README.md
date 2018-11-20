@@ -1,6 +1,9 @@
 # [[ 패스트캠퍼스 ] DEVOPS 구축 BOOTCAMP 3기](https://www.fastcampus.co.kr/dev_camp_devb/?gclid=Cj0KCQjw08XeBRC0ARIsAP_gaQA-oDn79_vTccFxR0gg3zyCTHwH4NdjtKytrcQT9vKhDtyoZBJx-cMaAgH6EALw_wcB)
 
-> Facebook : [https://www.facebook.com/groups/fc.devb3th/](https://www.facebook.com/groups/fc.devb3th/)
+> 최제필 강사님 / 진재규 강사님  
+> Facebook : [https://www.facebook.com/groups/fc.devb3th/](https://www.facebook.com/groups/fc.devb3th/)  
+
+----
 
 ## # 1 주차
 
