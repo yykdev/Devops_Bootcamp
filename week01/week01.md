@@ -1,4 +1,5 @@
-# DevOps 구축 BOOTCAMP
+# DevOps 구축 BOOTCAMP 3기
+## 1주차
 
 ### Linux : Amazon Linux? CentOS? ubuntu?
 - 목적에 맞는 리눅스 선택 ( 가장 좋은 리눅스는 X )
