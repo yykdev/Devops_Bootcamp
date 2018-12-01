@@ -32,3 +32,22 @@
 > 
 > cd Fastcampus-api-deploy/
 > : Fastcampus-api-deploy 디렉토리로 이동합니다.
+
+#### 4. NodeJS Process Manager 구축
+
+> npm install -g pm2
+> : NPM을 통해 pm2(nodejs process manager)를 -g 옵션으로 글로벌 모드(전체 적용)로 설치합니다.
+> 
+> npm install
+> : npm install 명령어를 입력했을 때 뒤에 패키지명이 없다면 프로젝트 내에 package.json 파일 안의 내용을
+>   확인하여 관련 모듈들을 해당 프로젝트 내에 설치합니다(-g 옵션과의 차이).
+> 
+> pm2 start bin/www --name WAS
+>  : pm2를 통해 node.js로 작성된 API 프로젝트를 실행합니다.
+> 
+> pm2 list
+> : pm2로 관리되는 프로세스들을 확인합니다.
+> 
+> pm2 show WAS
+> : 방금 pm2로 실행한 WAS로 명시한 프로세스의 상세 정보를 확인합니다.
+> 
