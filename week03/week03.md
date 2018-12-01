@@ -43,7 +43,7 @@
 >   확인하여 관련 모듈들을 해당 프로젝트 내에 설치합니다(-g 옵션과의 차이).
 > 
 > pm2 start bin/www --name WAS
->  : pm2를 통해 node.js로 작성된 API 프로젝트를 실행합니다.
+>  : pm2를 통해 node.js로 작성된 API 프로젝트를 WAS라는 이름( --name )으로 실행합니다.
 > 
 > pm2 list
 > : pm2로 관리되는 프로세스들을 확인합니다.
